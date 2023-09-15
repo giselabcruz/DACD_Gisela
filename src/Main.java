@@ -3,6 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World! I am in DACD.");
-        System.out.println("Git is the tool. Github allows us to create a remote repository.");
+        System.out.println("Special attention to the differences: Git is the tool. Github allows us to create a remote " +
+                "repository.");
+
         }
     }
