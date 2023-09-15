@@ -7,5 +7,6 @@ public class Main {
                 "repository.");
         System.out.println("Take care with commits!!! We have to look for organization in our repository.");
         System.out.println("If we are in one layer that is not the latest commited, we have to look for one new branch.");
+        System.out.println("We use merge option to reintroduce changes we need in branchs.");
         }
     }
