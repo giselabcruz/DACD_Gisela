@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello, World! I am in DACD.");
         System.out.println("Special attention to the differences: Git is the tool. Github allows us to create a remote " +
                 "repository.");
-
+        System.out.println("Take care with commits!!! We have to look for organization in our repository.");
+        System.out.println("If we are in one layer that is not the latest commited, we have to look for one new branch.");
         }
     }
