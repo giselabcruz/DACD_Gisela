@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7acc8072-908b-4f04-8870-d537c144bad7" name="Changes" comment="third commit">
+    <list default="true" id="7acc8072-908b-4f04-8870-d537c144bad7" name="Changes" comment="5 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Gisela/IdeaProjects/Clase15",
     "onboarding.tips.debug.path": "C:/Users/Gisela/IdeaProjects/Clase15/src/Main.java"
   }
 }]]></component>
@@ -58,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694783712975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4 commit">
+      <created>1694784040095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694784040095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5 commit">
+      <created>1694784423746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694784423746</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +92,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="4 commit" />
+    <MESSAGE value="5 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 commit" />
   </component>
 </project>
