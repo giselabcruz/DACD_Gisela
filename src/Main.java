@@ -14,7 +14,7 @@ public class Main {
         System.out.println("We use the merge option to reintroduce changes we need in branches.");
 
 
-        System.out.println("___________________________LAB CLASS_____________________________");
+        System.out.println("___________________________LAB CLASS 19/09/2023_____________________________");
 
 
         System.out.println("/Head/ is the tag that marks the current branch in which we are working.");
@@ -41,7 +41,36 @@ public class Main {
 
         System.out.println("One branch tracks the other.");
 
-        System.out.println("Gitflow metodology. We use the option 'Checkout' to change the branch we want.");
+        System.out.println("Gitflow methodology. We use the option 'Checkout' to change the branch we want.");
+
+
+        System.out.println("_________________________CLASS 20/09/2023______TOOLS FOR DEVELOPMENT_________");
+
+        System.out.println("Ascii, unicode(UTF-32), Unicode(UTF-8) 8 bytes, de forma que podemos representar diferentes" +
+                " caracteres. UTF-16 o UTF-32 tratan carácteres como emojis. BOM a number at the start of a text stream" +
+                "can signal several things, as the encoding we are using. En Java podemos seleccionar qué encoding necesitamos.");
+
+        System.out.println("Existen metodologías que practican los desarrolladores(WORKFLOWS). FeatureBranch: se crea una rama nueva para implementar una caracteristica" +
+                "nueva en un producto. Cuando termina esa feature, lo incorporan a las ramas de desarrollo." +
+                "De esa manera, en la rama master se observará el desarrollo." + "Existe otra rama llamada Release: esta es intermedia, y los desarrolladores realizan diferentes testeos antes de sacarlo." +
+                "Correción de errores para los dos primeros años de la salida del producto. Suele pasar que hay clientes que contratan evolución del proyecto, " +
+                "por ello se crea una version intermedia llamada 'hotfix', para sacar una nueva versión a la rama master.");
+
+
+        System.out.println("GIT COMMANDS: 'fetch' para ver las diferencias entre versiones. 'chechout' moverse entre ramas." +
+                "'reset'.");
+
+        System.out.println("Maven: gestor de codigo de proyectos, darle semantica, estructura y control junto con automatización del ciclo de vida." +
+                "Cuando un proyecto lo mavenizamos, necesitamos 'pom.xml' y el directorio de fuentes, en test ponemos el codigo necesario para hacer testeo(TDD)." +
+                "Los test deben ejecutarse de forma desatendida/automática. Cuando se utilizan diferentes lenguajes, con esta herramienta se pueden separar." +
+                "A esta estructura se le llama 'arquetipo'. El '.xml' (extended marqued lang.). Dentro del pom.xml se definen las coordenadas de un artefacto. El output es un artefacto, resultado de la compilación y empaquetado de nuestro proyecto." +
+                "'groupid'__nombre de la empresa, 'artifactid'" +
+                "'jar' es la extension de los ficheros ejectutables de java. Es un comprimido de .zip que dentro tiene las clases compiladas. Esto es lo que se entrega a un cliente para que sea ejecutable." +
+                "Las dependencias: en el fichero 'pom.xml' definimos de que depende: version, etc." +
+                "Maven tiene su propio repositorio de artefactos donde se encuentran diferentes librerías, como para montar un servidor https, para hacer testing en librerías, para leer ficheros word, crear pdf's... " +
+                "Project lifecycle: validate, compile, test, package(un jar), verify, install, deploy(distribuir, publicar  aun repositorio remoto)" +
+                "Se genera un jar por cada modulo existente en el project.");
+
 
     }
 }
