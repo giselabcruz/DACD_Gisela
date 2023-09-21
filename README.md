@@ -1,7 +1,7 @@
 
 # Data Science Application Development Theory Repository
 
-Welcome to the Data Science Application Development Theory Repository. This repository is dedicated to organizing and sharing theoretical materials for our Data Science Application Development classes. Here, you'll find resources, notes, and documentation on various topics related to developing applications for data science.
+Welcome to the Data Science Application Development Theory Repository. This blog is dedicated to organizing and sharing theoretical materials for our Data Science Application Development classes. Here, you'll find resources, notes, and documentation on various topics related to developing applications for data science.
 
 ## Table of Contents
 
@@ -16,10 +16,6 @@ Welcome to the Data Science Application Development Theory Repository. This repo
 9. [Additional Resources](/09-additional-resources.md)
 
 Feel free to explore the materials in each section and use them as supplementary resources for your Data Science Application Development classes.
-
-## Contributing
-
-If you have additional theory or materials related to the course that you'd like to contribute, please fork this repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
 
 ## License
 
